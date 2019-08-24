@@ -1,4 +1,4 @@
-## Welcome to the Knight Race Support Page
+## Knight Race Support
 
 This game was created and is operated by Matthew Restieri.
 
