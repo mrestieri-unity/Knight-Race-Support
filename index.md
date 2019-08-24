@@ -8,4 +8,4 @@ Thanks!
 
 ## Knight Race Privacy Policy
 
-This game does not gather any of your information whatsoever. Just enjoy this simple game!
+This game does not gather or collect any of your information.
